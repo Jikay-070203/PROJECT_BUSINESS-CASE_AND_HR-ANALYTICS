@@ -1,6 +1,6 @@
 **📌 Project Reminder**
 
-1️⃣ Human Resources Analytics
+#### 1️⃣ **Human Resources Analytics**
 🔹 **Objectives**: 
 - Analyze HR data.  
 - Predict employee attrition.  
